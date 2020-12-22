@@ -1,0 +1,40 @@
+.header{
+    background-color: #9bd2de;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.align{
+    width: 1024px;
+    margin: auto;
+}
+
+.menu{
+    list-style: none;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu .link{
+    color: #4b2142;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu .link:hover{
+    color: #8c417c;
+    border-bottom: 2px solid #8c417c;
+    padding-bottom: 5px;
+}
+
+.align h3{
+    padding-top: 25px;
+}

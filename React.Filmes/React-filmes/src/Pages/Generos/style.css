@@ -1,0 +1,53 @@
+.icon img{
+    width: 20px;
+    height: 20px;
+}
+
+main{
+    height: 80vh;
+}
+
+.teatro {
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+}
+
+.tabela{
+    display: flex;
+    flex-direction: column;
+justify-content: space-around;
+}
+
+.teat{
+    display: flex;
+    flex-direction: column;
+}
+.teatro img {
+    height: 80px;
+    width: 80px;
+}
+
+.forms{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin: 4em auto;
+}
+
+.tabela{
+    width: 400px;
+    margin: 1em 0 2em 0;
+}
+
+.tabela table tr {
+    width: 300px;
+}
+
+.buttons{
+    margin: 25px 0 0 0;
+}
+
+.teste{
+    display: flex;
+}

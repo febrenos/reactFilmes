@@ -1,0 +1,27 @@
+.rumo{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 4em auto;
+}
+
+.tabel{
+    width: 93%;
+    flex-direction: column;
+    display: flex;
+    margin: 1em 0 2em 0;
+}
+
+.tabel tbody {
+    width: 350px;
+}
+
+.tabel tr th{
+    padding: 10px;
+}
+
+.tabel tr td{
+    padding: 15px;
+}

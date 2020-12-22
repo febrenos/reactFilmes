@@ -1,0 +1,9 @@
+.inputs{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 58px;
+    font-size: 20px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}

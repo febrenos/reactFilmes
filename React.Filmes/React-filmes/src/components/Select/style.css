@@ -1,0 +1,12 @@
+.selects{
+    width: 400px;
+    height: 58px;
+    font-size: 20px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+.selects option{
+    text-align: center;
+}
+
